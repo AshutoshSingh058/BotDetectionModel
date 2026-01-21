@@ -43,7 +43,7 @@ Metadata and behavior:
 - **Model artifacts are not stored here** due to size constraints  
 
 📦 Trained model weights are hosted on Hugging Face:  
-👉 https://huggingface.co/<your-link>
+👉 https://huggingface.co/spaces/ASHUT0SH-SiNGH/BotDetection
 
 ---
 
