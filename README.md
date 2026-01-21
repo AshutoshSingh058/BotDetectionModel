@@ -1,4 +1,4 @@
-# Automated Bot Detection (Metadata-based)
+# Social Media Bot Detection 
 
 This project focuses on detecting automated (bot) accounts using **only user metadata and behavioral features**, without relying on text or content analysis.
 
